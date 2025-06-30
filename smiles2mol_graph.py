@@ -1,4 +1,4 @@
-How to turn a SMILES string into a molecular graph for Pytorch Geometric
+# How to turn a SMILES string into a molecular graph for Pytorch Geometric
 
 
 # %% [markdown]
